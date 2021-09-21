@@ -1,2 +1,4 @@
 # my-first-github-repository
-here is my first GitHub repository
+Here is my first GitHub repository
+
+README.md file was just edited manually
